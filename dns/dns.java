@@ -1,6 +1,6 @@
-
+import java.util.*;
 import java.net.InetAddress;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class dns{
     public static void main(String[] args) {
